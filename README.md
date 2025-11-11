@@ -1,5 +1,5 @@
 # WEDE_BAKERY_POE_FINAL
-# Sweet Savories Bakery Website - Assignment Submission
+# Sweet Savories Bakery Website 
 
 This project represents the development of a website for **Sweet Savories Bakery**, an artisan bakery located in Pretoria. The website serves as an online presence for the bakery, showcasing their menu, allowing customers to place online orders, and providing essential information about the bakery’s services. This project was built as part of an assignment to practice front-end web development, focusing on HTML, CSS, and JavaScript.
 
