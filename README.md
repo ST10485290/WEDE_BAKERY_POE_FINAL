@@ -82,3 +82,24 @@ filterButtons.forEach(button => {
     });
   });
 });
+Refrences.
+W3Schools, CSS Tutorial, Available at: https://www.w3schools.com/css/
+ [Accessed 11 November 2025].
+
+JavaScript.info, JavaScript Guide, Available at: https://javascript.info/
+ [Accessed 11 November 2025].
+
+Mozilla Developer Network (MDN), JavaScript Documentation, Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+ [Accessed 11 November 2025].
+
+Google Developers, Web Fundamentals: Lazy Loading Images, Available at: https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video
+ [Accessed 11 November 2025].
+
+Google Chrome Developers, 2020. Lazy Loading Images for Faster Performance. Available at: https://www.youtube.com/watch?v=W42ykt-s0lg
+ [Accessed 11 November 2025].
+
+freeCodeCamp.org, 2020. Git and GitHub for Beginners - Crash Course. Available at: https://www.youtube.com/watch?v=RGOj5yH7evk
+ [Accessed 11 November 2025].
+
+Moz, 2021. SEO for Beginners - Learn SEO. Available at: https://www.youtube.com/watch?v=gm8IuEUB7ds
+ [Accessed 11 November 2025].
