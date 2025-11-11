@@ -56,33 +56,16 @@ Each item includes:
 - A **price** tag for each product.
 - An **Add to Order** button, which directs users to the order page.
 
-**JavaScript** functionality is used to filter products by category, providing a smooth user experience.
+  Refrences.
+  Google Chrome Developers, 2020. Lazy Loading Images for Faster Performance. Available at: https://www.youtube.com/watch?v=W42ykt-s0lg
+ [Accessed 11 November 2025].
 
-**JavaScript code for filtering functionality:**
-```javascript
-// JavaScript for filtering menu items based on category
-const filterButtons = document.querySelectorAll('.filter-btn');
-const menuItems = document.querySelectorAll('.menu-item');
+freeCodeCamp.org, 2020. Git and GitHub for Beginners - Crash Course. Available at: https://www.youtube.com/watch?v=RGOj5yH7evk
+ [Accessed 11 November 2025].
 
-filterButtons.forEach(button => {
-  button.addEventListener('click', () => {
-    const filter = button.getAttribute('data-filter');
-    
-    // Highlight active button
-    filterButtons.forEach(btn => btn.classList.remove('active'));
-    button.classList.add('active');
-    
-    // Show/hide items based on category
-    menuItems.forEach(item => {
-      if (filter === 'all' || item.getAttribute('data-category') === filter) {
-        item.style.display = 'block';
-      } else {
-        item.style.display = 'none';
-      }
-    });
-  });
-});
-Refrences.
+Moz, 2021. SEO for Beginners - Learn SEO. Available at: https://www.youtube.com/watch?v=gm8IuEUB7ds
+ [Accessed 11 November 2025].
+
 W3Schools, CSS Tutorial, Available at: https://www.w3schools.com/css/
  [Accessed 11 November 2025].
 
@@ -93,13 +76,5 @@ Mozilla Developer Network (MDN), JavaScript Documentation, Available at: https:/
  [Accessed 11 November 2025].
 
 Google Developers, Web Fundamentals: Lazy Loading Images, Available at: https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video
- [Accessed 11 November 2025].
+ [Accessed 11 November 2025]. 
 
-Google Chrome Developers, 2020. Lazy Loading Images for Faster Performance. Available at: https://www.youtube.com/watch?v=W42ykt-s0lg
- [Accessed 11 November 2025].
-
-freeCodeCamp.org, 2020. Git and GitHub for Beginners - Crash Course. Available at: https://www.youtube.com/watch?v=RGOj5yH7evk
- [Accessed 11 November 2025].
-
-Moz, 2021. SEO for Beginners - Learn SEO. Available at: https://www.youtube.com/watch?v=gm8IuEUB7ds
- [Accessed 11 November 2025].
