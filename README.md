@@ -57,7 +57,9 @@ Each item includes:
 - An **Add to Order** button, which directs users to the order page.
 
   Refrences.
-  Google Chrome Developers, 2020. Lazy Loading Images for Faster Performance. Available at: https://www.youtube.com/watch?v=W42ykt-s0lg
+
+  
+Google Chrome Developers, 2020. Lazy Loading Images for Faster Performance. Available at: https://www.youtube.com/watch?v=W42ykt-s0lg
  [Accessed 11 November 2025].
 
 freeCodeCamp.org, 2020. Git and GitHub for Beginners - Crash Course. Available at: https://www.youtube.com/watch?v=RGOj5yH7evk
